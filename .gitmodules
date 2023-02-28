@@ -1,0 +1,3 @@
+[submodule "rotate_and_cut"]
+	path = rotate_and_cut
+	url = https://github.com/ITMO449-ML-department/rotate_and_cut.git
