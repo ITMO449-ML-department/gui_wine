@@ -1,2 +1,5 @@
 debug
 P368_2206_Vinodradniki_ortho_5cm-1-54.tif
+build
+dist
+*.spec
